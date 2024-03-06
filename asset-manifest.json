@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/varshitha2610/week5_mern.git/static/css/main.942f9171.css",
-    "main.js": "/varshitha2610/week5_mern.git/static/js/main.bfd23f50.js",
-    "static/js/592.7191424f.chunk.js": "/varshitha2610/week5_mern.git/static/js/592.7191424f.chunk.js",
+    "main.css": "/varshitha2610/week5_mern.git/static/css/main.03665633.css",
+    "main.js": "/varshitha2610/week5_mern.git/static/js/main.af845a1f.js",
+    "static/js/453.7cc2c848.chunk.js": "/varshitha2610/week5_mern.git/static/js/453.7cc2c848.chunk.js",
     "static/media/profile.png": "/varshitha2610/week5_mern.git/static/media/profile.f259a0e683afa134b074.png",
     "index.html": "/varshitha2610/week5_mern.git/index.html",
-    "main.942f9171.css.map": "/varshitha2610/week5_mern.git/static/css/main.942f9171.css.map",
-    "main.bfd23f50.js.map": "/varshitha2610/week5_mern.git/static/js/main.bfd23f50.js.map",
-    "592.7191424f.chunk.js.map": "/varshitha2610/week5_mern.git/static/js/592.7191424f.chunk.js.map"
+    "main.03665633.css.map": "/varshitha2610/week5_mern.git/static/css/main.03665633.css.map",
+    "main.af845a1f.js.map": "/varshitha2610/week5_mern.git/static/js/main.af845a1f.js.map",
+    "453.7cc2c848.chunk.js.map": "/varshitha2610/week5_mern.git/static/js/453.7cc2c848.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.942f9171.css",
-    "static/js/main.bfd23f50.js"
+    "static/css/main.03665633.css",
+    "static/js/main.af845a1f.js"
   ]
 }
